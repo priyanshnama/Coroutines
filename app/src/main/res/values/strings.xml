@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Coroutines</string>
+    <string name="error">Error</string>
+    <string name="flag">flag</string>
+    <string name="country">Country</string>
+    <string name="capital">Capital</string>
+</resources>
